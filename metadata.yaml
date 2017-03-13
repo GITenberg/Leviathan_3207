@@ -1,5 +1,8 @@
 _repo: Leviathan_3207
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hobbes, Thomas
@@ -22,6 +25,8 @@ description: "Leviathan or The Matter, Forme and Power of a Common Wealth Eccles
   \ wrote that civil war and the brute situation of a state of nature (\"the war of\
   \ all against all\") could only be avoided by strong undivided government.\n From\
   \ Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3207#Leviathan
 gutenberg_bookshelf:
 - Harvard Classics
 - Politics
